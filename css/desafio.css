@@ -1,0 +1,16 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+label {
+    cursor: default;
+}
+
+input[type="number" i] {
+    padding: 1px 2px;
+}
